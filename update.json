@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 877,
-  "versionName": "2.1.16",
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.1.16/suixing-2.1.16-877.apk",
-  "sha256": "6ac2a54cd6b936b8ab4c696ee7713e01eb90db91486eb2addd139cfdcbe0325a",
+  "versionCode": 880,
+  "versionName": "2.1.19",
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.1.19/suixing-2.1.19-880.apk",
+  "sha256": "aa6b9bdd8d89926d9743e7822774aa56316f2755e98be6710a23e40c14936971",
   "sizeBytes": 9900621,
-  "notes": "应用内更新源已迁至 GitHub。"
+  "notes": "诊断默认仅含结构化记录，可分别选择原始附件。续航提醒支持随行上锁后、解锁后和按星期定时，并优化停扫规则的时间选择。"
 }
