@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 880,
-  "versionName": "2.1.19",
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.1.19/suixing-2.1.19-880.apk",
-  "sha256": "aa6b9bdd8d89926d9743e7822774aa56316f2755e98be6710a23e40c14936971",
-  "sizeBytes": 9900621,
-  "notes": "诊断默认仅含结构化记录，可分别选择原始附件。续航提醒支持随行上锁后、解锁后和按星期定时，并优化停扫规则的时间选择。"
+  "versionCode": 883,
+  "versionName": "2.1.22",
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.1.22/suixing-2.1.22-883.apk",
+  "sha256": "014259dbe191656b0e93fb68ee54c700ae6b3893e84d8583cfcb50bbcf107d82",
+  "sizeBytes": 9904717,
+  "notes": "修复蓝牙信号波动导致的重复自动解锁，并优化发令后的云端锁态复核。今日续航对比分别显示 EV 和 HEV 模式里程，分项数据缺失时给出提示。新增近 50 公里平均电耗和油耗，与累计读数分开显示。"
 }
