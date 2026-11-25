@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 883,
-  "versionName": "2.1.22",
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.1.22/suixing-2.1.22-883.apk",
-  "sha256": "014259dbe191656b0e93fb68ee54c700ae6b3893e84d8583cfcb50bbcf107d82",
+  "versionCode": 884,
+  "versionName": "2.1.23",
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.1.23/suixing-2.1.23-884.apk",
+  "sha256": "6c05f2181fb39d38eb35471f3238ea744ac9cb9cdef64c6d10d244c7e062c03c",
   "sizeBytes": 9904717,
-  "notes": "修复蓝牙信号波动导致的重复自动解锁，并优化发令后的云端锁态复核。今日续航对比分别显示 EV 和 HEV 模式里程，分项数据缺失时给出提示。新增近 50 公里平均电耗和油耗，与累计读数分开显示。"
+  "notes": "修复今日续航对比的模式里程取值，EV、HEV 与下方今日里程同步显示。页面注明续航减少和差值的统计区间，缺失读数继续显示为横线。"
 }
