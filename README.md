@@ -25,3 +25,9 @@
 - Android 蓝牙连接、信号校准和远近判断的设计参考。[VitalyArt/BYD-Keyless](https://github.com/VitalyArt/BYD-Keyless)
 - 蓝牙自动控锁和云端回退的流程对照。[PoorGrammerA/BydBleAutoLock](https://github.com/PoorGrammerA/BydBleAutoLock)
 - 比亚迪中国区车辆状态和云端数据字段的参考。[lejw0925/byd-China](https://github.com/lejw0925/byd-China)
+## 下载与更新记录
+
+- [GitHub 发行版](https://github.com/chb225/suixing-releases/releases)
+- [Gitee 镜像](https://gitee.com/shu_hua/suixing)
+- [V2.2.1 界面预览](preview/suixing-2.2.1-888-preview.html)。将 HTML 保存到本地后用浏览器打开。
+- [更新日志](CHANGELOG.md)
