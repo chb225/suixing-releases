@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "2.2.2",
-  "versionCode": 889,
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.2/suixing-2.2.2-889.apk",
-  "sha256": "41733310773dc07dc364002cea838726c262a1428a685961235e15a776206d3b",
-  "sizeBytes": 9953869,
-  "notes": "- 纯电和燃油续航放在同一张表里，对照当天的表显续航减少与实际里程。\n- 校正总里程和 HEV 计数不同步时的模式分项。只有保留了完整可靠的记录时才补算既有数据。\n- 首页和车况页统一显示车况更新时间，精简重复说明并移除胎压示例。\n- 手动检查更新改为本地时间每自然小时一次，查询失败也计入次数。"
+  "versionName": "2.2.3",
+  "versionCode": 890,
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.3/suixing-2.2.3-890.apk",
+  "sha256": "de1abdf0eb3193cc505746145a5d808321197ddcb5c35727809a4ad9539f0d7e",
+  "sizeBytes": 9954010,
+  "notes": "- 车辆数据探测用中文显示有效读数。蓝牙验钥后也会尝试读取车况。\n- 首页与车况页精简更新时间。续航对比显示 EV、HEV 实跑与表显差值。\n- 时间设置支持时分滚轮和手动输入。\n- 精简设置、日志和通知文案。没有新车况时，续航提醒照常发送已有数值。"
 }
