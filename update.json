@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "2.2.3",
-  "versionCode": 890,
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.3/suixing-2.2.3-890.apk",
-  "sha256": "de1abdf0eb3193cc505746145a5d808321197ddcb5c35727809a4ad9539f0d7e",
-  "sizeBytes": 9954010,
-  "notes": "- 车辆数据探测用中文显示有效读数。蓝牙验钥后也会尝试读取车况。\n- 首页与车况页精简更新时间。续航对比显示 EV、HEV 实跑与表显差值。\n- 时间设置支持时分滚轮和手动输入。\n- 精简设置、日志和通知文案。没有新车况时，续航提醒照常发送已有数值。"
+  "versionName": "2.2.4",
+  "versionCode": 891,
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.4/suixing-2.2.4-891.apk",
+  "sha256": "fa03723c874d5209cdb398e43d6cb539e6496d1358326b31b0643be3534945ff",
+  "sizeBytes": 9958106,
+  "notes": "- 走近自动解锁按实际接近轮次去重，绕车时的短暂弱信号、重连或重启不会重复发令。\n- 离车上锁可在 25 秒内接收符合条件的晚到车况，旧回包不会覆盖更新的锁态。\n- 云端连接与车况更新时间分别显示，诊断导出增加请求耗时与失败分类。\n- 双站发布说明和新版界面预览统一。"
 }
