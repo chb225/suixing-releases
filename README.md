@@ -25,9 +25,14 @@
 - Android 蓝牙连接、信号校准和远近判断的设计参考。[VitalyArt/BYD-Keyless](https://github.com/VitalyArt/BYD-Keyless)
 - 蓝牙自动控锁和云端回退的流程对照。[PoorGrammerA/BydBleAutoLock](https://github.com/PoorGrammerA/BydBleAutoLock)
 - 比亚迪中国区车辆状态和云端数据字段的参考。[lejw0925/byd-China](https://github.com/lejw0925/byd-China)
+- 比亚迪车况在 Home Assistant 中的接入和更新方式参考。[jkaberg/hass-byd-vehicle](https://github.com/jkaberg/hass-byd-vehicle)
+- 比亚迪车机遥测经 MQTT 接入 Home Assistant 的参考。[freddycs/byd_car_mqtt](https://github.com/freddycs/byd_car_mqtt)
+- 比亚迪 Atto 3 电量、续航和充电状态的车载监测参考。[OVMS 的 Atto 3 文档](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3/blob/master/vehicle/OVMS.V3/components/vehicle_byd_atto3/docs/index.rst)
+- Android 低功耗蓝牙的连接、操作队列、信号强度读取和超时处理参考。[Nordic Android BLE Library](https://github.com/nordicsemi/Android-BLE-Library)
+
 ## 下载与更新记录
 
 - [GitHub 发行版](https://github.com/chb225/suixing-releases/releases)
-- [Gitee 镜像](https://gitee.com/shu_hua/suixing)
-- [V2.2.1 界面预览](preview/suixing-2.2.1-888-preview.html)。将 HTML 保存到本地后用浏览器打开。
+- [Gitee 发行版](https://gitee.com/shu_hua/suixing/releases)
+- [界面预览](preview/)。按版本选择 HTML 文件，保存到本地后用浏览器打开。
 - [更新日志](CHANGELOG.md)
