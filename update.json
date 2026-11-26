@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "2.2.0",
-  "versionCode": 887,
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.0/suixing-2.2.0-887.apk",
-  "sha256": "1704d9ac853824400e3fe15b09ef3232d312cc821156421ccf5a28051437129c",
-  "sizeBytes": 9933389,
-  "notes": "统一车辆授权和首页车况，优化蓝牙控锁，增加双算法观测、信标、校准续接与增量日志。"
+  "versionName": "2.2.1",
+  "versionCode": 888,
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.1/suixing-2.2.1-888.apk",
+  "sha256": "bcc89df2bb2a105163fedb2b8de536d88358dcdd56ae693e762f630211a3bc28",
+  "sizeBytes": 9949773,
+  "notes": "- 首页单独显示云端和蓝牙状态。云端车况回包可读时展示，历史车况标明时间。车辆数据检测入口移到设置。\n- 今日费用显示已知金额并注明缺项。平均能耗增加折算油耗。\n- 优化老钥匙走近解锁和离车上锁的车况查询、超时和提醒。实验 RSSI 算法仅记录。\n- 更新检查优先 GitHub，Gitee 为备用源。可选每天 09:00 自动检查，下载与安装由用户操作。"
 }
