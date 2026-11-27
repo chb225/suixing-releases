@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "2.2.4",
-  "versionCode": 891,
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.4/suixing-2.2.4-891.apk",
-  "sha256": "fa03723c874d5209cdb398e43d6cb539e6496d1358326b31b0643be3534945ff",
+  "versionName": "2.2.5",
+  "versionCode": 892,
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.5/suixing-2.2.5-892.apk",
+  "sha256": "ca0ba68515efd389e504d5a590f4c8525ede5c4cdfffcd8790d7da6e79c10251",
   "sizeBytes": 9958106,
-  "notes": "- 走近自动解锁按实际接近轮次去重，绕车时的短暂弱信号、重连或重启不会重复发令。\n- 离车上锁可在 25 秒内接收符合条件的晚到车况，旧回包不会覆盖更新的锁态。\n- 云端连接与车况更新时间分别显示，诊断导出增加请求耗时与失败分类。\n- 双站发布说明和新版界面预览统一。"
+  "notes": "- 同一次已验钥的蓝牙连接内，上电离车上锁后，回车达到原阈值即可自动解锁一次。\n- 走近时信号短暂回落，恢复到原解锁阈值后继续判断。已发出的解锁指令每轮只发一次。\n- 离车提前查询车况。原连接持续走远时，25 秒内可使用晚到的零速、未锁车况。\n- 车机明确拒绝的上锁不参与回车判断。\n- 已通过 Android 16、17 的 4 KB 模拟器安装与升级测试。沿用系统页大小兼容模式。16 KB 模拟器实测中，Android 16 开始扫码授权后崩溃，Android 17 加密库加载失败。16 KB 真机上的授权和蓝牙钥匙仍待验证。"
 }
