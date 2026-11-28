@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionName": "2.2.7",
-  "versionCode": 894,
-  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.7/suixing-2.2.7-894.apk",
-  "sha256": "fec3fc0689fd8191e807ef25642863de3680e7f0abbde7243965d9339dba75a8",
-  "sizeBytes": 9962202,
+  "versionName": "2.2.8",
+  "versionCode": 895,
+  "apkUrl": "https://github.com/chb225/suixing-releases/releases/download/v2.2.8/suixing-2.2.8-895.apk",
+  "sha256": "f075b1a217625be6a20018d7b7f298776c6386bb2e3c70fa1ca8b1e127c1ade0",
+  "sizeBytes": 9990874,
   "notes": "修复已知问题。"
 }
